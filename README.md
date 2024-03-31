@@ -44,6 +44,11 @@ This is a simple MERN stack application that demonstrates user registration and 
 Contributions are welcome! If you have any ideas, improvements, or issues, feel free to open a pull request or raise an issue.
 
 #ScreenShots
-![TRANSPORT IITBBS - Google Chrome 3_31_2024 21_08_47](https://github.com/Nisarg-P27/IITBBS_GC__TeamID99_team1_pscode1/assets/133028554/4290adac-8ed4-47bb-bc11-8d5976bdefc8)
+LOGIN PAGE
 
-![TRANSPORT IITBBS - Google Chrome 3_31_2024 21_08_35](https://github.com/Nisarg-P27/IITBBS_GC__TeamID99_team1_pscode1/assets/133028554/ba085e96-e32a-4d6d-beb2-4d935e29c998)
+![TRANSPORT IITBBS - Google Chrome 3_31_2024 21_08_35](https://github.com/Nisarg-P27/IITBBS_GC__TeamID99_team1_pscode1/assets/133028554/22cbcbe4-db27-4a79-8415-ac4c6a0790a8)
+
+REGISTRATION PAGE
+
+![TRANSPORT IITBBS - Google Chrome 3_31_2024 21_08_47](https://github.com/Nisarg-P27/IITBBS_GC__TeamID99_team1_pscode1/assets/133028554/c1b13a83-1a06-42a6-b71e-2dd943873930)
+
